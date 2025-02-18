@@ -1,6 +1,6 @@
-# onecounter (counter)
+# Todo List
 
-addiotn and subtracton of 1
+addiotn and subtracton of tasks
 
 ## Install the dependencies
 ```bash
